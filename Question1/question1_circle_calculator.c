@@ -1,6 +1,3 @@
-// C code
-// Simple Circle Calculator
-
 #include <stdio.h>
 
 int main() {
